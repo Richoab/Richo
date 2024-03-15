@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rachel
+- 👋 Hi, I’m Rachel
 - 👀 I’m interested in traveling
 - 🌱 I’m currently learning PhD program in construction technology and management 
 - 💞️ I’m looking to collaborate on ...
